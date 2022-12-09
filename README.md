@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [solving all Javascript Codewars katas](https://github.com/SimphiweLuthando/Codewars-Solutions)
 
-- 👨‍💻 All of my projects are available at [luthandosimphiwe.me](luthandosimphiwe.me)
+- 👨‍💻 All of my projects are available at [luthandosimphiwe.me]([luthandosimphiwe.me](https://luthandosimphiwe.me/))
 
 - 📫 How to reach me **simphiweluthandombokazi@gmail.com**
 
