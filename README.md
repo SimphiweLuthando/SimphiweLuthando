@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **simphiweluthandombokazi@gmail.com**
 
-- 📄 Know about my experiences [luthandosimphiwe.me](luthandosimphiwe.me)
-
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
 <h3 align="left">Connect with me:</h3>
