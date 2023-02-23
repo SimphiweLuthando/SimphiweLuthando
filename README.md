@@ -19,7 +19,7 @@
 I have a very strong foundation in web development, and I enjoy using my skills to contribute to the exciting technological advances that happen every day in the web space. Please feel free to explore my profile and see the value I can add to your team. 
 - My fluency in Javascript has overtaken my Zulu sad to say &#129315;
 - If you're intrested, I also have a Personal website at [luthandosimphiwe.me](https://www.luthandosimphiwe.me)
-- I’m currently open for an opportunity to be part of a team, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an opportunity to be part of a team, and my CV / resume is readily available upon request
 
 <br><br>
 
